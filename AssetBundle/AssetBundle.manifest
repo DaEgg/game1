@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2910018476
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameobject.unity2d
+      Dependencies: {}
+    Info_1:
+      Name: wall
+      Dependencies: {}
